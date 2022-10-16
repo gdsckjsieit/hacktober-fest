@@ -60,6 +60,8 @@ git push origin branch-name
 * 1. Design a logo for a Fintech company.
 * 2. Design a dashboard page for a tracker app.
 * 3. Design a landing page for a portfolio website (generic).
+* 4. Design a glassmorphic credit/debit card.
+* 5. Design a neumorphic credit/debit card.
 
 ## Rules for making PULL REQUEST
 
